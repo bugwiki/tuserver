@@ -1,0 +1,454 @@
+[08:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:26] [Server thread/INFO]: Time elapsed: 1524 ms
+[08:36:26] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[08:36:26] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:26] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:27] [Server-Worker-5/INFO]: Preparing spawn area: 98%
+[08:36:27] [Server thread/INFO]: Time elapsed: 1183 ms
+[08:36:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[08:36:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:28] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[08:36:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[08:36:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[08:36:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[08:36:24] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[08:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:25] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:26] [Server thread/INFO]: Time elapsed: 1524 ms
+[08:36:26] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[08:36:26] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:26] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:27] [Server-Worker-5/INFO]: Preparing spawn area: 98%
+[08:36:27] [Server thread/INFO]: Time elapsed: 1183 ms
+[08:36:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[08:36:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:27] [Server thread/INFO]: Preparing spawn area: 0%
+[08:36:28] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[08:36:28] [Server thread/INFO]: Time elapsed: 1002 ms
+[08:36:28] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257
+[08:36:28] [Server thread/INFO]: [dynmap] Using LuckPerms 4.4.1 for access control
+[08:36:28] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[08:36:29] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[08:36:29] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[08:36:29] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[08:36:29] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:6782
+[08:36:29] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[08:36:29] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[08:36:29] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[08:36:29] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[08:36:29] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[08:36:29] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[08:36:29] [Server thread/INFO]: [dynmap] Enabled
+[08:36:29] [Server thread/INFO]: [Images] Enabling Images v1.0.6-SNAPSHOT
+[08:36:29] [Server thread/INFO]: [WorldEditCUI] Enabling WorldEditCUI v1.5.1
+[08:36:29] [Server thread/INFO]: [WorldEditCUI] Plugin by KennyTV
+[08:36:29] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-beta-01;14e7525
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[08:36:29] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[08:36:29] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[08:36:29] [Server thread/INFO]: [WorldGuard] Loading region data...
+[08:36:29] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.18.4
+[08:36:29] [Server thread/INFO]: [VaultChatFormatter] Enabling VaultChatFormatter v1.0-SNAPSHOT
+[08:36:29] [Server thread/INFO]: [VaultChatFormatter] New Vault Chat implementation registered: LuckPerms
+[08:36:29] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[08:36:30] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[08:36:30] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[08:36:30] [Server thread/INFO]: No kits found to migrate.
+[08:36:30] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[08:36:30] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[08:36:30] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[08:36:30] [Server thread/INFO]: Loaded 20977 items from items.json.
+[08:36:30] [Server thread/INFO]: Using locale en_US
+[08:36:30] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:36:30] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:36:30] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[08:36:30] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[08:36:30] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+[08:36:30] [Server thread/INFO]: [ShopChest] Enabling ShopChest v1.13-SNAPSHOT
+[08:36:30] [Server thread/WARN]: [ShopChest] Server version not officially supported: v1_15_R1!
+[08:36:30] [Server thread/WARN]: [ShopChest] Plugin may still work, but more errors are expected!
+[08:36:31] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[08:36:31] [Server thread/INFO]: [ShopChest] Using SQLite
+[08:36:31] [Server thread/INFO]: [JupiterCore] Enabling JupiterCore v1.2.3
+[08:36:31] [Server thread/INFO]:
+[08:36:31] [Server thread/INFO]:
+[08:36:31] [Server thread/INFO]:
+[08:36:31] [Server thread/INFO]: -=-=-=-=-=-=-[ Plugin Startup ]-=-=-=-=-=-=-
+[08:36:31] [Server thread/INFO]: Plugin: JupiterCore
+[08:36:31] [Server thread/INFO]: Author: Jupiter-44
+[08:36:31] [Server thread/INFO]: Version: 1.2.3
+[08:36:31] [Server thread/INFO]: Server version: Unknown / ERROR.
+[08:36:31] [Server thread/INFO]: [JupiterCore] Disabling JupiterCore v1.2.3
+[08:36:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (2502506a1ae526df46c101156389ed9eebc196e5)
+[08:36:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[08:36:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[08:36:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[08:36:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[08:36:31] [Server thread/INFO]: [MoneyHunters] Enabling MoneyHunters v5.6.1
+[08:36:31] [Server thread/INFO]:
+[08:36:31] [Server thread/INFO]:
+[08:36:31] [Server thread/INFO]:
+[08:36:31] [Server thread/INFO]: -=-=-=-=-=-=-[ Plugin Startup ]-=-=-=-=-=-=-
+[08:36:31] [Server thread/INFO]: Plugin: MoneyHunters
+[08:36:31] [Server thread/INFO]: Author: NightExpress
+[08:36:31] [Server thread/INFO]: Version: 5.6.1
+[08:36:31] [Server thread/INFO]: Powered by: Jupiter-Core
+[08:36:31] [Server thread/INFO]: JCore: Missing / ERROR.
+[08:36:31] [Server thread/INFO]: [MoneyHunters] Disabling MoneyHunters v5.6.1
+[08:36:31] [Server thread/ERROR]: Error occurred while disabling MoneyHunters v5.6.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: su/jupiter44/jcore/JListener
+at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+.java:352) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:462) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:376) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:456) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:266) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:783) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.ClassNotFoundException: su.jupiter44.jcore.JListener
+at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:135) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:81) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+... 25 more
+[08:36:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:36:32] [Server thread/INFO]: Done (9.907s)! For help, type "help"
+[08:36:32] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ...
+[08:36:32] [Craft Scheduler Thread - 4/INFO]: HikariPool-1 - Starting...
+[08:36:32] [Craft Scheduler Thread - 4/INFO]: HikariPool-1 - Start completed.
+[08:36:32] [Craft Scheduler Thread - 0/INFO]: [WorldEditCUI] §cNewest version available: §aVersion 1.6.1§c, you're on §a1.5.1
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[08:36:32] [Craft Scheduler Thread - 4/INFO]: [ShopChest] Cleaned up economy log
+[08:36:32] [Server thread/INFO]: [ShopChest] Initialized 0 Shops
+[08:36:32] [JDA MainWS-WriteThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[08:36:32] [Craft Scheduler Thread - 1/WARN]: [ShopChest] Version 1.12.3 is available! You are running version 1.13-SNAPSHOT.
+[08:36:32] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[08:36:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:THOTTIES UNITED(590342405442502656)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(602066672978886666)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:info(590690616594399242)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:intros(591447006858444800)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(590342405442502660)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:relay(591744514620653598)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:screenshots(597946923688919062)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:planning(591497386682220554)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:selkie-tells-everybody-what-to-do(590343047854948363)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:notsobot(604434878649466931)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server-suggestions(694706499703930923)
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 000000000000000000
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[08:36:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[08:36:55] [User Authenticator #1/INFO]: UUID of player forgedaughter is c157b494-46d0-4361-8653-3f2adaaab9ef
+[08:36:56] [Server thread/INFO]: forgedaughter[/76.173.9.172:62677] logged in with entity id 311 at ([world]-954.6497341386564, 68.0, 1986.0564404148674)
+[08:37:07] [User Authenticator #2/INFO]: UUID of player seortega is b161aa5d-082d-4162-95a7-47234f87427c
+[08:37:08] [Server thread/INFO]: seortega[/76.176.181.44:53164] logged in with entity id 578 at ([world]-369.019682926244, 64.0, -339.9932517781729)
+[08:37:16] [Async Chat Thread - #0/INFO]: <[Admin] forgedaughter ah u changed it
+[08:37:27] [Async Chat Thread - #0/INFO]: <[Player] ~Seortega heheheh do u like
+[08:37:31] [Server thread/INFO]: forgedaughter issued server command: /tp seo
+[08:37:31] [Server thread/INFO]: §cforgedaughter §4was denied access to command.
+op forgedaughter
+[08:37:43] [Server thread/INFO]: Made forgedaughter a server operator
+[08:37:47] [Server thread/INFO]: forgedaughter issued server command: /tp seo
+[08:37:55] [Async Chat Thread - #0/INFO]: <[Admin] forgedaughter cute
+[08:37:59] [Async Chat Thread - #0/INFO]: <[Player] ~Seortega thx :)
+[08:38:20] [Server thread/INFO]: forgedaughter issued server command: /tpa
+[08:38:50] [Server thread/INFO]: forgedaughter issued server command: /lp applyedits W20Q861bVJ
+[08:38:51] [pool-8-thread-1/INFO]: [LP] LOG (forgedaughter) [G] (player)
+[08:38:51] [pool-8-thread-1/INFO]: [LP] LOG webeditor add essentials.tpaccept true
+[08:38:51] [pool-8-thread-1/INFO]: [LP] LOG (forgedaughter) [G] (player)
+[08:38:51] [pool-8-thread-1/INFO]: [LP] LOG webeditor add essentials.tpa true
+[08:39:05] [Server thread/INFO]: forgedaughter issued server command: /deop forgedaughter
+[08:39:05] [Server thread/INFO]: [forgedaughter: Made forgedaughter no longer a server operator]
+[08:39:06] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[08:39:17] [Server thread/INFO]: seortega issued server command: /home
+[08:41:01] [Async Chat Thread - #1/INFO]: <[Admin] forgedaughter test test
+[08:41:03] [Async Chat Thread - #1/INFO]: <[Admin] forgedaughter .
+op forgedaughter
+[08:41:21] [Server thread/INFO]: Made forgedaughter a server operator
+[08:41:25] [Server thread/INFO]: forgedaughter issued server command: /lp editor
+Loading libraries, please wait...
+[17:27:54] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[17:27:54] [Server thread/INFO]: Loading properties
+[17:27:54] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-492a779-2fd7964 (MC: 1.15.1) (Implementing API version 1.15.1-R0.1-SNAPSHOT)
+[17:27:55] [Server thread/INFO]: Debug logging is disabled
+[17:27:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:27:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:27:55] [Server thread/INFO]: Default game type: SURVIVAL
+[17:27:55] [Server thread/INFO]: Generating keypair
+[17:27:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:27:55] [Server thread/INFO]: Using epoll channel type
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader (file:/opt/service/plugins/LuckPerms-Bukkit-4.4.1.jar) to method java.net.URLClassLoader.addURL(java.net.URL)
+WARNING: Please consider reporting this to the maintainers of me.lucko.luckperms.common.dependencies.classloader.ReflectionClassLoader
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[17:27:59] [Server thread/WARN]: Plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[17:27:59] [Server thread/WARN]: Plugin Images v1.0.6-SNAPSHOT does not specify an api-version.
+[17:27:59] [Server thread/WARN]: Plugin VaultChatFormatter v1.0-SNAPSHOT does not specify an api-version.
+[17:27:59] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v4.4.1
+[17:28:00] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[17:28:00] [Server thread/INFO]: [dynmap] version=git-Spigot-492a779-2fd7964 (MC: 1.15.1)
+[17:28:00] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[17:28:00] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[17:28:00] [Server thread/INFO]: [dynmap] Mod Support API available
+[17:28:00] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[17:28:01] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4eef945a]
+[17:28:01] [Server thread/INFO]: [Images] Loading Images v1.0.6-SNAPSHOT
+[17:28:01] [Server thread/INFO]: [WorldEditCUI] Loading WorldEditCUI v1.5.1
+[17:28:01] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[17:28:01] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.1-beta-01;14e7525
+[17:28:01] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.18.4
+[17:28:01] [Server thread/INFO]: [VaultChatFormatter] Loading VaultChatFormatter v1.0-SNAPSHOT
+[17:28:01] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.0.0
+[17:28:01] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.0.0
+[17:28:01] [Server thread/INFO]: [ShopChest] Loading ShopChest v1.13-SNAPSHOT
+[17:28:01] [Server thread/INFO]: [ShopChest] Using locale "en_US"
+[17:28:01] [Server thread/INFO]: [JupiterCore] Loading JupiterCore v1.2.3
+[17:28:01] [Server thread/INFO]: [Factions] Loading Factions v1.6.9.5-U0.5.10-b224
+[17:28:01] [Server thread/INFO]: [MoneyHunters] Loading MoneyHunters v5.6.1
+[17:28:01] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v4.4.1
+[17:28:01] [Server thread/INFO]: __
+[17:28:01] [Server thread/INFO]: | |__) LuckPerms v4.4.1
+[17:28:01] [Server thread/INFO]: |___ | Running on Bukkit - CraftBukkit
+[17:28:01] [Server thread/INFO]:
+[17:28:01] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:28:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:28:01] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:28:02] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:28:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1101ms)
+[17:28:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[17:28:02] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:28:02] [Server thread/WARN]: [WorldEdit] ====================================================
+[17:28:02] [Server thread/WARN]: [WorldEdit] WorldEdit works better if you use Paper
+[17:28:02] [Server thread/WARN]: [WorldEdit] as your server software.
+[17:28:02] [Server thread/WARN]: [WorldEdit]
+[17:28:02] [Server thread/WARN]: [WorldEdit] Paper offers significant performance improvements,
+[17:28:02] [Server thread/WARN]: [WorldEdit] bug fixes, security enhancements and optional
+[17:28:02] [Server thread/WARN]: [WorldEdit] features for server owners to enhance their server.
+[17:28:02] [Server thread/WARN]: [WorldEdit]
+[17:28:02] [Server thread/WARN]: [WorldEdit] Paper includes Timings v2, which is significantly
+[17:28:02] [Server thread/WARN]: [WorldEdit] better at diagnosing lag problems over v1.
+[17:28:02] [Server thread/WARN]: [WorldEdit]
+[17:28:02] [Server thread/WARN]: [WorldEdit] All of your plugins should still work, and the
+[17:28:02] [Server thread/WARN]: [WorldEdit] Paper community will gladly help you fix any issues.
+[17:28:02] [Server thread/WARN]: [WorldEdit]
+[17:28:02] [Server thread/WARN]: [WorldEdit] Join the Paper Community @ https://papermc.io
+[17:28:02] [Server thread/WARN]: [WorldEdit] ====================================================
+[17:28:02] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[17:28:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[17:28:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:28:02] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[17:28:02] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[17:28:02] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[17:28:02] [Server thread/INFO]: Preparing level "world"
+[17:28:02] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:28:03] [Server thread/INFO]: Loaded 6 recipes
+[17:28:05] [Server thread/INFO]: Preparing spawn area: 0%
+[17:28:05] [Server thread/INFO]: Preparing spawn area: 0%
+[17:28:05] [Server thread/INFO]: Preparing spawn area: 2%
+[17:28:05] [Server thread/INFO]: Time elapsed: 1362 ms
+[17:28:05] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[17:28:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:28:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:28:06] [Server-Worker-7/INFO]: Preparing spawn area: 98%
+[17:28:06] [Server thread/INFO]: Time elapsed: 1261 ms
+[17:28:06] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[17:28:07] [Server thread/INFO]: Preparing spawn area: 0%
+[17:28:07] [Server thread/INFO]: Preparing spawn area: 41%
+[17:28:07] [Server thread/INFO]: Time elapsed: 919 ms
+[17:28:07] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257
+[17:28:08] [Server thread/INFO]: [dynmap] Using LuckPerms 4.4.1 for access control
+[17:28:08] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[17:28:08] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[17:28:08] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[17:28:08] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[17:28:09] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:6782
+[17:28:09] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[17:28:09] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[17:28:09] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[17:28:09] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[17:28:09] [Server thread/INFO]: [dynmap] Loaded 5 pending tile renders for world 'world'
+[17:28:09] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[17:28:09] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[17:28:09] [Server thread/INFO]: [dynmap] Enabled
+[17:28:09] [Server thread/INFO]: [Images] Enabling Images v1.0.6-SNAPSHOT
+[17:28:09] [Server thread/INFO]: [WorldEditCUI] Enabling WorldEditCUI v1.5.1
+[17:28:09] [Server thread/INFO]: [WorldEditCUI] Plugin by KennyTV
+[17:28:09] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-beta-01;14e7525
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+D.
+[17:28:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[17:28:09] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[17:28:09] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[17:28:09] [Server thread/INFO]: [WorldGuard] Loading region data...
+[17:28:09] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.18.4
+[17:28:09] [Server thread/INFO]: [VaultChatFormatter] Enabling VaultChatFormatter v1.0-SNAPSHOT
+[17:28:09] [Server thread/INFO]: [VaultChatFormatter] New Vault Chat implementation registered: LuckPerms
+[17:28:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[17:28:09] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[17:28:09] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[17:28:09] [Server thread/INFO]: No kits found to migrate.
+[17:28:09] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[17:28:09] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[17:28:09] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[17:28:09] [Server thread/INFO]: Loaded 20977 items from items.json.
+[17:28:09] [Server thread/INFO]: Using locale en_US
+[17:28:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:28:09] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:28:09] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[17:28:09] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[17:28:09] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+[17:28:09] [Server thread/INFO]: [ShopChest] Enabling ShopChest v1.13-SNAPSHOT
+[17:28:09] [Server thread/WARN]: [ShopChest] Server version not officially supported: v1_15_R1!
+[17:28:09] [Server thread/WARN]: [ShopChest] Plugin may still work, but more errors are expected!
+[17:28:10] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[17:28:10] [Server thread/INFO]: [ShopChest] Using SQLite
+[17:28:10] [Server thread/INFO]: [JupiterCore] Enabling JupiterCore v1.2.3
+[17:28:10] [Server thread/INFO]:
+[17:28:10] [Server thread/INFO]:
+[17:28:10] [Server thread/INFO]:
+[17:28:10] [Server thread/INFO]: -=-=-=-=-=-=-[ Plugin Startup ]-=-=-=-=-=-=-
+[17:28:10] [Server thread/INFO]: Plugin: JupiterCore
+[17:28:10] [Server thread/INFO]: Author: Jupiter-44
+[17:28:10] [Server thread/INFO]: Version: 1.2.3
+[17:28:10] [Server thread/INFO]: Server version: Unknown / ERROR.
+[17:28:10] [Server thread/INFO]: [JupiterCore] Disabling JupiterCore v1.2.3
+[17:28:10] [Server thread/INFO]: [Factions] Enabling Factions v1.6.9.5-U0.5.10-b224
+[17:28:11] [Server thread/INFO]: [Factions] === Starting up! ===
+[17:28:11] [Server thread/INFO]: [Factions]
+[17:28:11] [Server thread/INFO]: [Factions] Factions UUID!
+[17:28:11] [Server thread/INFO]: [Factions] Version 1.6.9.5-U0.5.10-b224
+[17:28:11] [Server thread/INFO]: [Factions]
+[17:28:11] [Server thread/INFO]: [Factions] Need support? https://factions.support/help/
+[17:28:11] [Server thread/INFO]: [Factions]
+[17:28:11] [Server thread/INFO]: [Factions] Detected Minecraft 1.15.1
+[17:28:11] [Server thread/INFO]: [Factions]
+[17:28:11] [Server thread/INFO]: [Factions] Server UUID e9d80933-3e3e-4fac-afac-0046000dfd39
+[17:28:11] [Server thread/INFO]: [Factions] Loaded 870 material mappings.
+[17:28:11] [Server thread/INFO]: [Factions] Found and connected to Essentials
+[17:28:11] [Server thread/INFO]: [Factions] Based on main.conf will delete Essentials player homes in their old faction when they leave
+[17:28:11] [Server thread/INFO]: [Factions] Using Essentials for teleportation
+[17:28:11] [Server thread/INFO]: [Factions] No board to load from disk. Creating new file.
+[17:28:11] [Server thread/INFO]: [Factions] Loaded 0 players in 0 factions with 0 claims
+[17:28:11] [Server thread/INFO]: [Factions] Using POWER for land/raid control. Enabling power commands.
+[17:28:11] [Server thread/INFO]: [Factions] Enabling /f fly command
+[17:28:11] [Server thread/INFO]: [Factions] Found economy plugin through Vault: Essentials Economy
+[17:28:11] [Server thread/INFO]: [Factions] NOTE: Economy is disabled. You can enable it in config/main.conf
+[17:28:11] [Server thread/INFO]: [Factions] Using Vault with permissions plugin LuckPerms
+[17:28:11] [Server thread/INFO]: [Factions] Not enabling WorldGuard check since no options for it are enabled.
+[17:28:11] [Server thread/INFO]: [Factions] Enabled Dynmap integration
+[17:28:11] [Server thread/INFO]: [Factions] Using BUKKIT as a particle provider
+[17:28:11] [Server thread/INFO]: [Factions] Using REDSTONE as the ParticleEffect for /f sc
+[17:28:11] [Server thread/INFO]: [Factions] Found API support for sending player titles :D
+[17:28:11] [Server thread/INFO]: [Factions] === Ready to go after 791ms! ===
+[17:28:11] [Server thread/INFO]: [MoneyHunters] Enabling MoneyHunters v5.6.1
+[17:28:11] [Server thread/INFO]:
+[17:28:11] [Server thread/INFO]:
+[17:28:11] [Server thread/INFO]:
+[17:28:11] [Server thread/INFO]: -=-=-=-=-=-=-[ Plugin Startup ]-=-=-=-=-=-=-
+[17:28:11] [Server thread/INFO]: Plugin: MoneyHunters
+[17:28:11] [Server thread/INFO]: Author: NightExpress
+[17:28:11] [Server thread/INFO]: Version: 5.6.1
+[17:28:11] [Server thread/INFO]: Powered by: Jupiter-Core
+[17:28:11] [Server thread/INFO]: JCore: Missing / ERROR.
+[17:28:11] [Server thread/INFO]: [MoneyHunters] Disabling MoneyHunters v5.6.1
+[17:28:11] [Server thread/ERROR]: Error occurred while disabling MoneyHunters v5.6.1 (Is it up to date?)
+java.lang.NoClassDefFoundError: su/jupiter44/jcore/JListener
+at java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+at java.lang.ClassLoader.defineClass(ClassLoader.java:1016) ~[?:?]
+at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:174) ~[?:?]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:131) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:202) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:92) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:81) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+at su.nightexpress.moneyhunters.MoneyHunters.disable(MoneyHunters.java:113) ~[?:?]
+at su.jupiter44.jcore.JPlugin.unloadManagers(JPlugin.java:210) ~[?:?]
+at su.jupiter44.jcore.JPlugin.onDisable(JPlugin.java:99) ~[?:?]
+at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:377) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:438) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964].java:352) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:462) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:376) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:456) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:266) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:783) [Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.lang.ClassNotFoundException: su.jupiter44.jcore.JListener
+at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:135) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:81) ~[Spigot-1.15.1.jar:git-Spigot-492a779-2fd7964]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
+at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
+... 25 more
+[17:28:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:28:12] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (2502506a1ae526df46c101156389ed9eebc196e5)
+[17:28:12] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[17:28:12] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[17:28:12] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[17:28:12] [DiscordSRV - Initialization/INFO]: [DiscordSRV] §8===============================================================================
+[17:28:12] [Server thread/INFO]: Done (9.981s)! For help, type "help"
+[17:28:12] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ...
+[17:28:12] [Craft Scheduler Thread - 0/INFO]: [WorldEditCUI] §cNewest version available: §aVersion 1.6.1§c, you're on §a1.5.1
+[17:28:12] [Craft Scheduler Thread - 3/INFO]: HikariPool-1 - Starting...
+[17:28:12] [Craft Scheduler Thread - 3/INFO]: HikariPool-1 - Start completed.
+[17:28:12] [Craft Scheduler Thread - 4/WARN]: [ShopChest] Version 1.12.3 is available! You are running version 1.13-SNAPSHOT.
+[17:28:12] [Craft Scheduler Thread - 3/INFO]: [ShopChest] Cleaned up economy log
+[17:28:12] [Server thread/INFO]: [ShopChest] Initialized 0 Shops
+[17:28:12] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[17:28:12] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
+[17:28:12] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[17:28:13] [JDA MainWS-WriteThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[17:28:13] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:THOTTIES UNITED(590342405442502656)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(602066672978886666)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:info(590690616594399242)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:intros(591447006858444800)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(590342405442502660)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:relay(591744514620653598)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:screenshots(597946923688919062)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:planning(591497386682220554)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:selkie-tells-everybody-what-to-do(590343047854948363)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:notsobot(604434878649466931)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:server-suggestions(694706499703930923)
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel 000000000000000000
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[17:28:13] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
